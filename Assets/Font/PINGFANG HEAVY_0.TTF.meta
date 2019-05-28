@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 9e9d475da3cdfd241994ab1242f7f9fd
+timeCreated: 1541143658
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PingFang SC
+  fontNames:
+  - PingFang SC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 93f9899049958be4b8e3f0392a73ed22, type: 3}
+  - {fileID: 12800000, guid: 54b3c6b16b68485498743bd460ca848e, type: 3}
+  - {fileID: 12800000, guid: 905cfc4453d198a4bba58a9e1dfed079, type: 3}
+  - {fileID: 12800000, guid: 7026894539fc9704dad387f78e276d21, type: 3}
+  - {fileID: 12800000, guid: 6f53d1f5c2bdca74d900777053277f69, type: 3}
+  - {fileID: 12800000, guid: f3efb4eb1d6d90d49a7b7ffba31f15ad, type: 3}
+  - {fileID: 12800000, guid: 1e29a49d47dcde045912cacf25ea400c, type: 3}
+  - {fileID: 12800000, guid: f35203fe2cd452d42b6acbbb0b6d4233, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
